@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276848317883",
+    "project_id": "auroratask-c4df4",
+    "storage_bucket": "auroratask-c4df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276848317883:android:dacf6bdd6df1a4520ca09e",
+        "android_client_info": {
+          "package_name": "com.example.aurora_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276848317883-06siggjfknv45vmihr3fv3smpr3od2sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRdcQFycYNtXuUk44_Yq5Y4yqlkHXobGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276848317883-06siggjfknv45vmihr3fv3smpr3od2sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
